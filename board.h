@@ -17,4 +17,4 @@ public:
   void printBoard();
   void solve();
   bool solved();
-}
+};
